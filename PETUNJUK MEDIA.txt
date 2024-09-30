@@ -1,0 +1,7 @@
+file secara online:
+buka di https://media-tik2.vercel.app/
+
+
+
+file offline
+MULAI.BAT
