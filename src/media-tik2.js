@@ -55,7 +55,7 @@ export class mediaTik2 extends DDDSuper(LitElement) {
       }
       .content.visible {
         max-height: 100%;
-        /* max-height: 100px; Adjust this value if needed */
+        /* max-height: 100px; Adjustjj this value if needed */
       }
       .button-container {
         display: flex;
